@@ -1,4 +1,4 @@
-# Cronopedia
+# Coronopedia
 
 This Python project, initially created in the 12th grade, delves into the COVID-19 pandemic by providing a user-friendly graphical interface (GUI) for exploring relevant data.
 
